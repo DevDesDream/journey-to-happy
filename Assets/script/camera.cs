@@ -44,7 +44,7 @@ public class camera : MonoBehaviour
                 //disable follow
                 cm.SetActive(false);
                 //unlock move back or forward
-                playervel.constraints &= ~RigidbodyConstraints.FreezePositionX|RigidbodyConstraints.FreezeRotation;
+                playervel.constraints &= ~RigidbodyConstraints.FreezePositionX|RigidbodyConstraints.FreezeRotationX|RigidbodyConstraints.FreezeRotationZ;
                 inpos=true;
                 moveforwardable=true;
                 index=i;

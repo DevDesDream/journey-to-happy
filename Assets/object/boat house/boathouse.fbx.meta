@@ -22,6 +22,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: floor
+    second: {fileID: 2100000, guid: 23fa2fd808701b342b4dea33d8a6762f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: inside house
     second: {fileID: 2100000, guid: e1de89a621e0afd4b921c0cedda19000, type: 2}
   - first:
@@ -39,6 +44,11 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: roof
     second: {fileID: 2100000, guid: bc2c8f68aac2fa8449d29c571790ac3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: under
+    second: {fileID: 2100000, guid: 902f3009fac74864687860f0f67b952c, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
