@@ -1,6 +1,6 @@
 # Journey to happy
 ## 🌱 Tổng quan
-Journey to happy là một tựa game 2D nhập vai được phát triển bằng Unity. Bạn sẽ vào vai một cậu bé sống trong một thế giới đang dần sụp đổ vì ô nhiễm. Mẹ cậu đã qua đời, để lại trong cậu một nỗi trống vắng lớn và một khát vọng: tìm đến nơi cuối cùng còn sự sống và hy vọng.
+Journey to happy là một tựa game 3D nhập vai được phát triển bằng Unity. Bạn sẽ vào vai một cậu bé sống trong một thế giới đang dần sụp đổ vì ô nhiễm. Mẹ cậu đã qua đời, để lại trong cậu một nỗi trống vắng lớn và một khát vọng: tìm đến nơi cuối cùng còn sự sống và hy vọng.
 
 Trò chơi mang phong cách kể chuyện nhẹ nhàng, giàu cảm xúc, với thông điệp về sự chữa lành, hy sinh và hy vọng.
 ![Screenshot 2025-05-07 212744](https://github.com/user-attachments/assets/cfdf4b2c-8c44-43bb-8e8d-43ccdb9ed87e)
