@@ -11,5 +11,5 @@ Trò chơi mang phong cách kể chuyện nhẹ nhàng, giàu cảm xúc, với 
 - 🎨 **Đồ họa**: Blender, Photoshop
 - 🌲 **Animation**: Unity Animator, Blender
 - 🔄 **Phiên bản**: Git & GitHub
-📌 Trạng thái
+## 📌 Trạng thái
 ⏳ Đang trong quá trình phát triển
